@@ -12,7 +12,7 @@ Black-box penetration test of **Mediroza General Hospital** (`https://medirozaho
 - **📁 [M1 - Initial Access](./M1/)** Exploiting the patient portal login to retrieve confidential PDF lab reports
 - **📁 [M2 - Data Extraction](./M2/)** Cracking the password protection on the retrieved PDFs
 - **📁 [M3 - Critical Data Exposure](./M3/):** Uncovering staff salary and shareholder data via an exposed database backup
-- **📁 [M4 - Mediroza_Pentest_Report.pdf](./Mediroza_Pentest_Report.pdf) (./M4/)** Full professional report with findings, risk ratings, and remediation steps
+- **📁 [M4 - Mediroza_Pentest_Report.pdf](./M4/)** Full professional report with findings, risk ratings, and remediation steps
 
 ---
 
