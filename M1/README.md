@@ -47,6 +47,6 @@
 
 ## 📄 Retrieved Files
 
-- [`patient_report_1.pdf`](./patient_report_1.pdf) — password-protected (cracked in [M2](../M2-Data-Extraction/))
-- [`patient_report_2.pdf`](./patient_report_2.pdf) — password-protected (cracked in [M2](../M2-Data-Extraction/))
-- [`patient_report_3.pdf`](./patient_report_3.pdf) — password-protected (cracked in [M2](../M2-Data-Extraction/))
+- [`patient_report_1.pdf`](./patient_report_1.pdf) — password-protected (cracked in [M2-Data Extration](../M2/))
+- [`patient_report_2.pdf`](./patient_report_2.pdf) — password-protected (cracked in [M2-Data Extraction](../M2/))
+- [`patient_report_3.pdf`](./patient_report_3.pdf) — password-protected (cracked in [M2-Data Extration](../M2/))
